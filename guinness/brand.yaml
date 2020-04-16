@@ -9,6 +9,7 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13091.82998617481!2d-
 glasses:
   - name: Guinness
     id: guinness
+    photo: guinness/guinness_0.jpg
     bought_city: Dublin
     bought_country: Ireland
     got: buy

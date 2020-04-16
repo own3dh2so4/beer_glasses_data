@@ -4,10 +4,13 @@ from_city: Prague
 from_country: Czech Republic
 website: https://www.staropramen.com/
 logo: staropramen/logo200x200.png
+background_logo: true
+name_image: staropramen/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17734.52074571415!2d14.398696138986123!3d50.063753918065025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x393aefd11480249!2sStaropramen%20Brewery!5e0!3m2!1ses!2ses!4v1584293555772!5m2!1ses!2ses
 glasses:
   - name: Staropramen
     id: staropramen
+    photo: staropramen/staropramen_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

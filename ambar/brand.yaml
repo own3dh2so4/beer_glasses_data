@@ -4,10 +4,12 @@ from_city: Zaragoza
 from_country: Spain
 website: https://ambar.com/
 logo: ambar/logo200x200.png
+name_image: ambar/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d67481.96301991926!2d-0.8950296157464145!3d41.62743885931338!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb13984eeba7e28ff!2sLa%20Zaragozana%20-%20F%C3%A1brica%20de%20Cervezas%20Ambar!5e0!3m2!1ses!2ses!4v1583078936522!5m2!1ses!2ses
 glasses:
   - name: Ambar
     id: ambar
+    photo: ambar/ambar_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

@@ -4,10 +4,12 @@ from_city: North Brabant
 from_country: Netherlands
 website: https://www.latrappetrappist.com
 logo: la_trappe/logo200x200.png
+name_image: la_trappe/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4962.71468192912!2d5.128553949715954!3d51.54334620479938!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6bf8e41cbea47%3A0x3788f6ede55bdca6!2sBierbrouwerij%20De%20Koningshoeven%20B.V.!5e0!3m2!1ses!2ses!4v1584209568074!5m2!1ses!2ses
 glasses:
   - name: La Trappe
     id: la_trappe
+    photo: la_trappe/la_trappe_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

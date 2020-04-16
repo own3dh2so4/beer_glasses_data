@@ -1,13 +1,15 @@
 name: Diabolici
-id: delirium
+id: diabolici
 from_city: Flemish Region
 from_country: Belgium
 website: https://anthonymartin.be/
 logo: diabolici/logo200x200.png
+name_image: diabolici/name.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6748.343731599314!2d4.408328173104121!3d50.68704198012289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3d18cc0937b41%3A0xaf79f7839565c58!2sFerme%20de%20Mont%20Saint%20Jean!5e0!3m2!1ses!2ses!4v1583513764915!5m2!1ses!2ses
 glasses:
   - name: Diabolici
     id: diabolici
+    photo: diabolici/diabolici_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

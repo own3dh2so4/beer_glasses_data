@@ -4,10 +4,13 @@ from_city: Flemish Brabant
 from_country: Belgium
 website: http://tongerlo.be/
 logo: tongerlo/logo200x200.png
+background_logo: true
+name_image: tongerlo/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9764.637474061696!2d4.611419001650133!3d50.96641918533988!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3e1cb41086673%3A0x4f526b15d5ec57f3!2sHaacht%20brewery!5e0!3m2!1ses!2ses!4v1584383421457!5m2!1ses!2ses
 glasses:
   - name: Tongerlo
     id: tongerlo
+    photo: tongerlo/tongerlo_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

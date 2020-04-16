@@ -3,12 +3,13 @@ id: delirium
 from_city: Melle
 from_country: Belgium
 website: https://www.delirium.be/
-name_image: delirum/name.svg
+name_image: delirium/name.svg
 logo: delirium/logo200x200.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7524.2392433058285!2d3.803081062458076!3d50.99926801496198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf46be04d4d3fe685!2sHuyghe%20Brewery!5e0!3m2!1ses!2ses!4v1583512635647!5m2!1ses!2ses
 glasses:
   - name: Delirium Tremens
     id: delirium
+    photo: delirium/delirium_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

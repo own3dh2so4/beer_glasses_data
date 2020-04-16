@@ -4,10 +4,12 @@ from_city: Plzeň
 from_country: Czech Republic
 website: https://www.pilsnerurquell.com/
 logo: pilsner_urquell/logo200x200.png
+name_image: pilsner_urquell/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10312.375591292895!2d13.38674!3d49.746677!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x360b8c2294d85eaa!2zUGx6ZcWIc2vDvSBQcmF6ZHJvaiwgYS4gcy4!5e0!3m2!1ses!2ses!4v1584276012861!5m2!1ses!2ses
 glasses:
   - name: Pilsner Urquell
     id: pilsner_urquell
+    photo: pilsner_urquell/pilsner_urquell_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

@@ -4,10 +4,13 @@ from_city: East Flanders
 from_country: Belgium
 website: https://bestbelgianspecialbeers.be/
 logo: tripel_karmeliet/logo200x200.png
+background_logo: true
+name_image: tripel_karmeliet/name.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1774.9208357291916!2d4.201227305514303!3d51.01398514070791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd6323fa4aa580eb1!2sDeus%20e%20Karmeliet%20-%20Brouwerij%20Bosteels!5e0!3m2!1ses!2ses!4v1584384420385!5m2!1ses!2ses
 glasses:
   - name: Tripel Karmeliet
     id: tripel_karmeliet
+    photo: tripel_karmeliet/tripel_karmeliet_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

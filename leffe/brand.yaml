@@ -4,10 +4,13 @@ from_city: Dinant
 from_country: Belgium
 website: https://leffe.com
 logo: leffe/logo200x200.png
+background_logo: true
+name_image: leffe/name.png
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8580.167141008475!2d4.911669147849848!3d50.25647150254982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c1bffcc13735c7%3A0x685761b4f2e9b2e2!2sMaison%20Leffe!5e0!3m2!1ses!2sus!4v1584266741057!5m2!1ses!2sus
 glasses:
   - name: Leffe
     id: leffe
+    photo: leffe/leffe_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy

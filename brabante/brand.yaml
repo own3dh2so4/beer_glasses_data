@@ -4,10 +4,12 @@ from_city: Madrid
 from_country: Spain
 website: http://brabantecervezas.com/
 logo: brabante/logo200x200.png
+name_image: brabante/name.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4295.998284286929!2d-3.6946920254406743!3d40.41484242612257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228bf90b4803f%3A0x1fb8a0042f972ffe!2sBrabante%20Cervezas%20S.L!5e0!3m2!1ses!2ses!4v1583178341136!5m2!1ses!2ses
 glasses:
   - name: Brabante
     id: brabante
+    photo: brabante/brabante_0.jpg
     bought_city: Madrid
     bought_country: Spain
     got: buy
